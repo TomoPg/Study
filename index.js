@@ -6,9 +6,9 @@ client.on('ready', () => {
 })
 
 client.on('messageCreate', async msg => {
-  if (msg.content === '!ping') {
-    msg.channel.send('Pong!')
+  if (msg.content === 'k.こんにちは') {
+    msg.channel.send('こんにちは!')
   }
 })
 
-client.login('OTAzOTI0MDMyMzk3Nzc0ODc4.YX0C2w.X6IKCYww2P3xIzuJ38UjV9GUquM')
+client.login('OTAzOTI0MDMyMzk3Nzc0ODc4.YX0C2w.A1GqRhg8UqP7oyvvrGhWl02swJo')
