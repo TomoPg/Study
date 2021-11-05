@@ -7,5 +7,9 @@
     "start": "node_index.js"
   },
   "author": "kotoneaoi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.3.1"
+  }
 }
